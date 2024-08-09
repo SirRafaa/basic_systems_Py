@@ -1,4 +1,4 @@
-# Exercises_Python 
+# Information 
 
 <p align="corner">
   <a href="https://skillicons.dev">
